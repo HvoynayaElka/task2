@@ -1,1 +1,15 @@
 к ветке demo не подвязана ветка hat и новая ветка boots_buttons
+
+12 коммитов:
+!;
+Merge branch 'boots_buttons';
+Merge remote-tracking branch 'origin/hat';
+Merge branch 'buttons' into boots_buttons;
+Merge branch 'boots' into boots_buttons;
+fix readme;
+dots;
+README added;
+boots;
+heat added;
+init;
+12 коммит - это мой коммит этого текстого файла, который я изменил, чтобы написать сколько вижу коммитов
